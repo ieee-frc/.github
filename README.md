@@ -1,4 +1,4 @@
-[![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
+![animated](#)
 
 ### Nuestras Redes 
 
